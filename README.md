@@ -40,6 +40,9 @@ Run: java CoffeeShopPOS
 
 
 
+
+UML
+
 Legend:
 + public   - private   italics = abstract class/method
 
